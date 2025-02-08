@@ -1,0 +1,10 @@
+html{
+  background-color: #bbe4e9;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+*{
+  font-family: sans-serif;
+}
