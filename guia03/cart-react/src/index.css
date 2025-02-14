@@ -60,6 +60,8 @@ header{
 }
 
 .container-cart-products{
+    max-height: 300px; 
+    overflow-y: auto;
     position: absolute;
     top: 50px;
     right: 0;
@@ -133,6 +135,11 @@ header{
 
 .hidden-cart{
     display: none;
+}
+.product-image {
+    width: 50px; 
+    height: auto;
+    margin-right: 10px;
 }
 
 
