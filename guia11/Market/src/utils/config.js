@@ -1,0 +1,1 @@
+export const API_URL = 'https://apitienda-production-7924.up.railway.app';
